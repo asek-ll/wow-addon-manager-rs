@@ -1,0 +1,112 @@
+repositories:
+  - name: HandyNotes_LunarFestival
+    url: https://github.com/Fr4ncoShade/HandyNotes_LunarFestival
+    path: HandyNotes_LunarFestival
+  - name: AttuneNext
+    url: https://github.com/speedyrulz/AttuneNext
+  - name: AttuneHelper
+    url: https://github.com/RosemyneH/AttuneHelper
+  - name: AttuneHelper_Options
+    url: https://github.com/RosemyneH/AttuneHelper
+    path: AttuneHelper_Options
+  - name: qtBar
+    url: https://github.com/RosemyneH/qtBar
+  - name: OmniInventory
+    url: https://github.com/RosemyneH/OmniInv-Syn
+  - name: BossTracker
+    url: https://github.com/nayalist/boss-tracker
+  - name: Talented-synastria
+    url: https://github.com/RosemyneH/talented-synastria
+  - name: SynastriaPerkManager
+    url: https://github.com/Netrinil/SynastriaPerkManager
+  - name: Questie-335
+    url: https://github.com/Netrinil/Questie-335
+  - name: ScootsStats
+    url: https://github.com/SynScoots/ScootsStats
+    path: src/ScootsStats
+  - name: ScootsVendor
+    url: https://github.com/SynScoots/ScootsVendor
+    path: src/ScootsVendor
+  - name: ScootsCraft
+    url: https://github.com/SynScoots/ScootsCraft
+    path: src/ScootsCraft
+
+  - name: ScootsSpeedrun
+    url: https://github.com/SynScoots/ScootsSpeedrun
+    path: src/ScootsSpeedrun
+
+  - name: ScootsLibOptions
+    url: https://github.com/SynScoots/ScootsLibOptions
+    path: src/ScootsLibOptions
+
+  - name: ScootsRares
+    url: https://github.com/SynScoots/ScootsRares
+    path: src/ScootsRares
+
+  - name: SynastriaBuildManager
+    url: https://github.com/Lubricated/SynastriaBuildManager
+    path: src/SynastriaBuildManager
+  - name: LootPop
+    url: https://github.com/RedeemedRiku/LootPop
+    path: src/LootPop
+  - name: SynastriaQuestieHelper
+    url: https://github.com/Elmegaard/SynastriaQuestieHelper
+    path: src/SynastriaQuestieHelper
+  - name: TheJournal
+    url: https://github.com/RosemyneH/TheJournal
+    path: src/TheJournal
+  - name: AtlasLoot_Mythic
+    url: https://github.com/imevul/AtlasLoot_Mythic
+    path: src/AtlasLoot_Mythic
+  - name: AtlasLoot
+    url: https://github.com/imevul/AtlasLoot_Mythic
+    path: src/AtlasLoot
+  - name: AtlasLoot_BurningCrusade
+    url: https://github.com/imevul/AtlasLoot_Mythic
+    path: src/AtlasLoot_BurningCrusade
+  - name: AtlasLoot_ClassicWoW
+    url: https://github.com/imevul/AtlasLoot_Mythic
+    path: src/AtlasLoot_ClassicWoW
+  - name: AtlasLoot_Crafting
+    url: https://github.com/imevul/AtlasLoot_Mythic
+    path: src/AtlasLoot_Crafting
+  - name: AtlasLoot_Loader
+    url: https://github.com/imevul/AtlasLoot_Mythic
+    path: src/AtlasLoot_Loader
+  - name: AtlasLoot_WorldEvents
+    url: https://github.com/imevul/AtlasLoot_Mythic
+    path: src/AtlasLoot_WorldEvents
+  - name: AtlasLoot_WrathoftheLichKing
+    url: https://github.com/imevul/AtlasLoot_Mythic
+    path: src/AtlasLoot_WrathoftheLichKing
+
+  - name: WeakAuras
+    url: https://github.com/Bunny67/WeakAuras-WotLK
+    path: WeakAuras
+
+  - name: WeakAurasOptions
+    url: https://github.com/Bunny67/WeakAuras-WotLK
+    path: WeakAurasOptions
+
+  - name: WeakAurasModelPaths
+    url: https://github.com/Bunny67/WeakAuras-WotLK
+    path: WeakAurasModelPaths
+
+  - name: WeakAurasArchive
+    url: https://github.com/Bunny67/WeakAuras-WotLK
+    path: WeakAurasArchive
+
+
+  - name: ArkInventory
+    url: https://github.com/SynScoots/ArkInventory-modified-for-attunements-
+    path: src/ArkInventory
+  - name: ArkInventoryRules
+    url: https://github.com/SynScoots/ArkInventory-modified-for-attunements-
+    path: src/ArkInventoryRules
+  - name: ArkInventoryRules_Scoots
+    url: https://github.com/SynScoots/ArkInventory-modified-for-attunements-
+    path: src/ArkInventoryRules_Scoots
+  - name: LizardDMP
+    url: https://github.com/Versicoloris/LizardDMP
+    path: ""
+

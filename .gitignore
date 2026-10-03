@@ -1,0 +1,9 @@
+target
+
+# Configuration files (may contain sensitive data)
+config.yaml
+
+# Keep example configuration
+!config.yaml.example
+
+wow-addon-manager

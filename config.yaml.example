@@ -1,0 +1,26 @@
+# WoW Addon Manager Configuration Example
+# Copy this file to config.yaml and adjust the values
+
+# Path to your WoW AddOns directory
+# The application will try to auto-detect common paths
+addon_dir: "/path/to/World of Warcraft/Interface/AddOns"
+
+# GitHub API Token (OPTIONAL but recommended to avoid rate limits)
+# SECURITY: Do NOT commit your actual token to git!
+#
+# Option 1 (Recommended): Use environment variable
+#   Set GITHUB_TOKEN environment variable in your shell
+#   Leave this field empty or commented out
+#
+# Option 2: Store in config (less secure)
+#   Uncomment and add your token below
+#   Make sure config.yaml is in .gitignore
+#
+# github_token: "your_github_token_here"
+
+# List of addon repositories to manage
+repositories:
+  - name: "ExampleAddon"
+    url: "https://github.com/username/addon-repo"
+    # Optional: If addon is in a subdirectory of the repo
+    # path: "src/AddonName"
